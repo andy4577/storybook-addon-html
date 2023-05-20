@@ -1,5 +1,5 @@
 {
-  "name": "@no-name/storybook-addon-html",
+  "name": "@un-known/storybook-addon-html",
   "version": "0.0.1",
   "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML for non framework development.",
   "keywords": [
