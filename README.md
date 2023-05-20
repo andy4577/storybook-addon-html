@@ -17,13 +17,13 @@ Install the addon and its dependencies.
 With NPM:
 
 ```sh
-npm i --save-dev @no-name/storybook-addon-html prettier react-syntax-highlighter
+npm i --save-dev @un-known/storybook-addon-html prettier react-syntax-highlighter
 ```
 
 With Yarn:
 
 ```sh
-yarn add -D @no-name/storybook-addon-html prettier react-syntax-highlighter
+yarn add -D @un-known/storybook-addon-html prettier react-syntax-highlighter
 ```
 
 ### Register addon
@@ -34,7 +34,7 @@ yarn add -D @no-name/storybook-addon-html prettier react-syntax-highlighter
 module.exports = {
   // ...
   addons: [
-    "@no-name/storybook-addon-html",
+    "@un-known/storybook-addon-html",
     // ...
   ],
 };
